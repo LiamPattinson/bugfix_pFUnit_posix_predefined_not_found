@@ -1,0 +1,6 @@
+[submodule "external/pFUnit_PlasmaFAIR"]
+	path = external/pFUnit_PlasmaFAIR
+	url = https://github.com/PlasmaFAIR/pFUnit.git
+[submodule "external/pFUnit"]
+	path = external/pFUnit
+	url = https://github.com/Goddard-Fortran-Ecosystem/pFUnit.git

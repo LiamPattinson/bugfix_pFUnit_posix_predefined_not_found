@@ -1,0 +1,13 @@
+module my_test
+
+  use funit
+  implicit none
+
+contains
+
+  @test
+  subroutine test_is_true
+    @assertTrue(.true.)
+  end subroutine test_is_true
+
+end module my_test
